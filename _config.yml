@@ -5,7 +5,7 @@ rss: /atom.xml
 favicon: /favicon.png
 
 # style setting
-monochrome: true
+monochrome: false
 
 # view setting
 avatar: https://www.matthewrowlandson.com/img/profile_pic.jpg
